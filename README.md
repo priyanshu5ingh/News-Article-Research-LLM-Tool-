@@ -92,7 +92,7 @@ streamlit run app.py
 ---
 
 ## 🌍 Live Demo (Optional)
-👉 **[Try it Online](https://your-username-your-app-name.streamlit.app/)**
+👉 **[Try it Online](https://8vxiryxuz56z2fzzxhmcie.streamlit.app/)**
 
 ---
 
