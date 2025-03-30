@@ -124,4 +124,4 @@ Special thanks to:
 - **Hugging Face** for open-source embeddings
 - **Streamlit** for easy UI development
 
-💡 *Made with ❤️ by Priyanshu Singh*
+💡 *Made❤️ by Priyanshu Singh*
